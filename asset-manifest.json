@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Epsum_generator_React/static/css/main.b091a31c.css",
+    "main.js": "/Epsum_generator_React/static/js/main.9a6baf46.js",
+    "static/js/787.3f26e358.chunk.js": "/Epsum_generator_React/static/js/787.3f26e358.chunk.js",
+    "index.html": "/Epsum_generator_React/index.html",
+    "main.b091a31c.css.map": "/Epsum_generator_React/static/css/main.b091a31c.css.map",
+    "main.9a6baf46.js.map": "/Epsum_generator_React/static/js/main.9a6baf46.js.map",
+    "787.3f26e358.chunk.js.map": "/Epsum_generator_React/static/js/787.3f26e358.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b091a31c.css",
+    "static/js/main.9a6baf46.js"
+  ]
+}
